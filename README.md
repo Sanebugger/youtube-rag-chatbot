@@ -1,6 +1,6 @@
 # 🎥 YouTube Transcript RAG Chatbot
 
-A production-ready **Retrieval-Augmented Generation (RAG)** chatbot that enables users to interact with YouTube videos using natural language. The application automatically extracts video transcripts, generates semantic embeddings using **Google Gemini**, stores them in **ChromaDB**, and answers user questions using the **Mistral LLM** through an interactive **Streamlit** interface.
+A production-ready **Retrieval-Augmented Generation (RAG)** chatbot that enables users to interact with YouTube videos using natural language. The application automatically extracts video transcripts, generates semantic embeddings using **Google Gemini**, stores them in **ChromaDB**, and answers user questions using the **Gemini LLM** through an interactive **Streamlit** interface.
 
 ---
 

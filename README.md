@@ -2,6 +2,9 @@
 
 A production-ready **Retrieval-Augmented Generation (RAG)** chatbot that enables users to interact with YouTube videos using natural language. The application automatically extracts video transcripts, generates semantic embeddings using **Google Gemini**, stores them in **ChromaDB**, and answers user questions using the **Gemini LLM** through an interactive **Streamlit** interface.
 
+<img width="1917" height="1017" alt="image" src="https://github.com/user-attachments/assets/6b2fec60-58b0-46af-afed-ecccf77f441a" />
+
+
 ---
 
 ## 🚀 Features
